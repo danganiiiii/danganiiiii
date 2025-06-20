@@ -26,6 +26,6 @@ I'm the founder of [Dangani Studios](https://danganistudios.com), where I design
 ## 🔗 Links
 
 - 🌐 [Website](https://danganistudios.com)
-- 📸 [Instagram](https://instagram.com/danganistudios)
-- 📹 [YouTube](https://youtube.com/@DanganiStudios)
-- 💬 [Discord](https://yourserverlink.com) (if public)
+- 📸 [Instagram](https://instagram.com/dangani.studios)
+- 📹 [YouTube](https://youtube.com/@Dangani)
+- 💬 [Discord](https://discord.gg/bWCw7Kj7Ht)
